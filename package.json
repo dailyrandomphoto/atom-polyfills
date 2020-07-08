@@ -1,0 +1,16 @@
+{
+  "name": "atom-polyfills",
+  "main": "./lib/atom-polyfills",
+  "version": "0.0.0",
+  "description": "Polyfills for lower version ATOM.",
+  "keywords": [
+    "polyfills",
+    "atom",
+    "node"
+  ],
+  "repository": "https://github.com/dailyrandomphoto/atom-polyfills",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
