@@ -6,8 +6,9 @@ describe("AtomPolyfills", () => {
   });
 
   describe("String", () => {
-    it("should has trimEnd function", () => {
+    it("should has trimEnd, trimStart function", () => {
       expect(typeof String.prototype.trimEnd).toBe("function");
+      expect(typeof String.prototype.trimStart).toBe("function");
     });
   });
 });

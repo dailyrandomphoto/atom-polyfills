@@ -2,7 +2,7 @@
   "name": "atom-polyfills",
   "main": "./lib/atom-polyfills",
   "version": "0.1.3",
-  "description": "Polyfills for lower version ATOM.",
+  "description": "Polyfills for lower version of Atom.",
   "keywords": [
     "polyfills",
     "atom",
